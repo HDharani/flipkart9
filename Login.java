@@ -1,7 +1,5 @@
 /**
 This file should contain the code of login validation.
-Make sure, password changes are not developed here.
-Make sure, password changes are not developed here.
 **/
 public class Login
 {
