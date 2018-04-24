@@ -12,6 +12,7 @@ public class Login
 
 	Login lg = new Login();
 	lg.addition(2,3);
+	lg.addition(2,3);
 	}
 
 }
