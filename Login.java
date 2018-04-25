@@ -1,3 +1,8 @@
+public class LoginUser
+{
+
+}
+
 lsjflsfj
 /**
 This file should contain the code of login validation.
