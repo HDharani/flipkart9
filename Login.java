@@ -10,7 +10,7 @@ This file should contain the code of login validation.
 public class Login
 {
 	{
-		int len = 40;
+		int len = 80;
 		int value = 20;
 
 	}
