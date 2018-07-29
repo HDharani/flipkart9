@@ -2,7 +2,7 @@ public class LoginUser
 {
 
 }
-GOOD change
+BAD change
 lsjflsfj
 /**
 This file should contain the code of login validation.
