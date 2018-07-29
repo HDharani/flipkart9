@@ -1,21 +1,11 @@
-public class LoginUser
-{
-
-}
-GOOD change
-lsjflsfj
-/**
-This file should contain the code of login validation.
-**/
 public class Login
 {
+	public static void main(String args[])
 	{
-		int len = 80;
-		int value = 20;
-
-len
+		int i;
+		for(i=0;i<=10;i++)
+		{
+			System.out.println("Number: " + i);
+		}
 	}
-
-ljdfljdlfjdlf
-ljdfljdlfjdlf
 }
